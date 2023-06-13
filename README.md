@@ -1,5 +1,5 @@
 # Road Accident Analytics Dashboard
-Dashboard Preview
+Dashboard Preview ![image](https://drive.google.com/file/d/1kwdEsxmrDZsaY8LC3J7wPKJwBDWmU05y/view?usp=drivesdk) 
 ## Introduction
 This Road Accident Analytics dashboard is a data analysis project created using Excel. It provides valuable insights and visualizations based on road accident data for the years 2021 and 2022. The dashboard offers various key performance indicators (KPIs) and statistics to help gain insights into road accident requirements. The following sections outline the requirements, steps followed in the project, and the key insights obtained.
 
