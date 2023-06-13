@@ -27,10 +27,15 @@ Dashboard Creation: Finally, a dashboard was built in Excel by incorporating sli
 Based on the analysis of the road accident data, the following key insights were obtained:
 
 📌The total number of casualties that took place after the accidents is **417,883**.
+
 📌Car accidents resulted in the highest number of casualties, accounting for **79.8% (333,485)** of the total casualties. The type of vehicle with the least casualties is "Others" **(3,424)**.
+
 📌The total number of casualties for the years 2021 and 2022 is **222,146** and **195,737**, respectively.
+
 📌The month of November 2021 had the highest number of casualties, while February 2021 had the lowest. Similarly, November 2022 had the highest number of casualties, and January 2022 had the lowest.
+
 📌Single Carriageway road type had the highest number of casualties, whereas Slip road had the least.
+
 📌The distribution of total casualties was highest on dry road surfaces.
 
  ***These insights provide a comprehensive understanding of the road accident data and can be used to inform decision-making and implement strategies for improving road safety.***
